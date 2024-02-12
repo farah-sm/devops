@@ -1,5 +1,3 @@
-Sure! Below is the README.md file with all the content in Markdown format:
-
 ```markdown
 # Kubernetes Security Best Practices
 
